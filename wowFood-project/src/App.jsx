@@ -1,4 +1,5 @@
 import './App.css'
+import Contact from './components/Contact'
 import ExploreFood from './components/Explore-Food'
 import Foodmenu from './components/Foodmenu'
 import Navbar from './components/Navbar'
@@ -12,6 +13,7 @@ function App() {
       <Search/>
       <ExploreFood/>
       <Foodmenu/>
+      <Contact/>
     </>
   )
 }

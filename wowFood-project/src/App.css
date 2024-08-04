@@ -173,16 +173,16 @@ nav ul{
     cursor: pointer;
   }
   
-  /* footer {
-    background-color: #00BCD4;
-    color: white;
-    padding: 20px;
+  footer {
+    background-color: white;
+    color: black;
+    padding: 0;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 0;
   }
   
   .social-media {
-    margin-bottom: 10px;
+    margin-bottom: 2px;
   }
   
   .social-media a {
@@ -193,7 +193,7 @@ nav ul{
   
   .social-media i {
     font-size: 24px;
-  } */
+  }
 
 
 
